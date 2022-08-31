@@ -249,10 +249,12 @@ footer {
     }
 
     footer {
+        position: relative;
         background-size: 15%;
         background-position: bottom right;
         padding-right: 20px;
         padding: 0;
         margin: 20px;
+        bottom: 0;
     }
 }
